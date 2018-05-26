@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1005454701967",
+    "firebase_url": "https://fomas-sunway-dm.firebaseio.com",
+    "project_id": "fomas-sunway-dm",
+    "storage_bucket": "fomas-sunway-dm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005454701967:android:84244a772e41d5e2",
+        "android_client_info": {
+          "package_name": "com.fomas.alertsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1005454701967-e4iifjpfeuf0pp0734km0v56qgqhdil7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fomas.alertsystem",
+            "certificate_hash": "c6f085c940c3976a98472b8103f6deddde0bbf0a"
+          }
+        },
+        {
+          "client_id": "1005454701967-5t56p8qni5d9g7hfh1517hrtaq1fshsl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuO665pkcepBpNBOYXfZZlzgcNehJOkAM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1005454701967-5t56p8qni5d9g7hfh1517hrtaq1fshsl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
